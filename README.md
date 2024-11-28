@@ -28,4 +28,4 @@ SELECT restore_constraints('nama_schema', 'nama_table');
 Tambahkan detail tambahan tentang penggunaan fungsi ini atau cara setup-nya jika diperlukan!
 
 --- 
-by alx
+by agus sedih
