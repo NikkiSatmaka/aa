@@ -24,8 +24,4 @@ SELECT restore_constraints('nama_schema', 'nama_table');
 - Ganti `nama_schema` dengan nama schema Anda dan `nama_table` dengan nama tabel yang sesuai.
 
 --- 
-
-Tambahkan detail tambahan tentang penggunaan fungsi ini atau cara setup-nya jika diperlukan!
-
---- 
 by agus sedih
