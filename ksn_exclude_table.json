@@ -1,0 +1,3223 @@
+    {  
+        "rule-type": "selection",  
+        "rule-id": 0,  
+        "rule-name": 0,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AABAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 1,  
+        "rule-name": 1,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_EMPALLDED_ATM_REPORT_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 2,  
+        "rule-name": 2,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_EMPALLDED_PAJAK_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 3,  
+        "rule-name": 3,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_FFB_QUALITY_2013"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 4,  
+        "rule-name": 4,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_PAYMENTVOUCHERDETAIL_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 5,  
+        "rule-name": 5,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_PAYMENTVOUCHER_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 6,  
+        "rule-name": 6,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_PDO_ADD_EMPLOYEE_FIELD1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 7,  
+        "rule-name": 7,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_PDO_ADD_FIELD_FINAL1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 8,  
+        "rule-name": 8,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_PDO_EMPLOYEE_FIELD1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 9,  
+        "rule-name": 9,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_PRODUCTIVITAS_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 10,  
+        "rule-name": 10,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "ACTIVITY2IDEAS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 11,  
+        "rule-name": 11,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "ACTIVITY2IDEASESTATEMILL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 12,  
+        "rule-name": 12,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "ACTIVITY2IDEASVEHICLE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 13,  
+        "rule-name": 13,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AREA_BCXS_INDEX"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 14,  
+        "rule-name": 14,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AREA_DATA_STORAGE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 15,  
+        "rule-name": 15,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCD_ELEMENT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 16,  
+        "rule-name": 16,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCD_FREF"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 17,  
+        "rule-name": 17,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCD_FREF_JOBCODE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 18,  
+        "rule-name": 18,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCD_TYPE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 19,  
+        "rule-name": 19,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_BUDG"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 20,  
+        "rule-name": 20,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_CEN_DTL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 21,  
+        "rule-name": 21,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_END"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 22,  
+        "rule-name": 22,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_JOB"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 23,  
+        "rule-name": 23,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_JOB_DTL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 24,  
+        "rule-name": 24,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_ORG_UNIT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 25,  
+        "rule-name": 25,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_ORG_UNIT_DTL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 26,  
+        "rule-name": 26,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_QUE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 27,  
+        "rule-name": 27,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BCX_QUE_DTL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 28,  
+        "rule-name": 28,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BTH_QUEUE_METHOD"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 29,  
+        "rule-name": 29,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BTH_SYS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 30,  
+        "rule-name": 30,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BTL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 31,  
+        "rule-name": 31,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BTL_ACCESS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 32,  
+        "rule-name": 32,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BTL_ROLE_ACCESS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 33,  
+        "rule-name": 33,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BTU_DATA_BLOCK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 34,  
+        "rule-name": 34,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BTU_SET"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 35,  
+        "rule-name": 35,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BUDGETFACTORTABLE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 36,  
+        "rule-name": 36,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CALCX_DETAIL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 37,  
+        "rule-name": 37,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CALCX_FUNCTION"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 38,  
+        "rule-name": 38,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CALCX_INDEX"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 39,  
+        "rule-name": 39,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CALCX_INDEX_DETAIL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 40,  
+        "rule-name": 40,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CONTRACT_ADJUSTMENT_06_2009"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 41,  
+        "rule-name": 41,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CONTROLALLOWDEDBAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 42,  
+        "rule-name": 42,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CONTROLALLOWDED_2011"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 43,  
+        "rule-name": 43,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CONTROLALLOWDED_2012"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 44,  
+        "rule-name": 44,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CONTROLALLOWDED_2013"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 45,  
+        "rule-name": 45,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CONVERT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 46,  
+        "rule-name": 46,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "COSTBOOKE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 47,  
+        "rule-name": 47,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "COSTBOOKREF"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 48,  
+        "rule-name": 48,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CROP_TYU7_9"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 49,  
+        "rule-name": 49,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "DAY_ALLOWDED_2013"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 50,  
+        "rule-name": 50,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "DAY_ALLOWDED_2016"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 51,  
+        "rule-name": 51,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "DOCUMENT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 52,  
+        "rule-name": 52,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EMPALLDEDBACKUP"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 53,  
+        "rule-name": 53,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EMPATTOTBREAKUP"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 54,  
+        "rule-name": 54,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EMPCOINDENO"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 55,  
+        "rule-name": 55,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EMPEARNING"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 56,  
+        "rule-name": 56,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EMPLOYEECBJAN"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 57,  
+        "rule-name": 57,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EMPLOYEECBPTN"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 58,  
+        "rule-name": 58,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EMPLOYEECB_BACKUP"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 59,  
+        "rule-name": 59,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ACCESS_PRIVS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 60,  
+        "rule-name": 60,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_APP_PARAMS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 61,  
+        "rule-name": 61,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ASMP_CONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 62,  
+        "rule-name": 62,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ASMP_LOGS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 63,  
+        "rule-name": 63,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ASM_POLICIES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 64,  
+        "rule-name": 64,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BAS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 65,  
+        "rule-name": 65,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BATCH_PARAMS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 66,  
+        "rule-name": 66,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BATCH_QUERIES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 67,  
+        "rule-name": 67,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BATCH_REPORTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 68,  
+        "rule-name": 68,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BATCH_SHEETS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 69,  
+        "rule-name": 69,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BA_OBJ_LINKS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 70,  
+        "rule-name": 70,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BQ_DEPS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 71,  
+        "rule-name": 71,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BQ_TABLES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 72,  
+        "rule-name": 72,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BR_RUNS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 73,  
+        "rule-name": 73,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_DBH_NODES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 74,  
+        "rule-name": 74,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_DOCUMENTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 75,  
+        "rule-name": 75,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_DOMAINS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 76,  
+        "rule-name": 76,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ELEM_XREFS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 77,  
+        "rule-name": 77,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_EUL_USERS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 78,  
+        "rule-name": 78,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_EXPRESSIONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 79,  
+        "rule-name": 79,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_EXP_DEPS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 80,  
+        "rule-name": 80,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FREQ_UNITS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 81,  
+        "rule-name": 81,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FUNCTIONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 82,  
+        "rule-name": 82,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FUN_ARGUMENTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 83,  
+        "rule-name": 83,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FUN_CTGS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 84,  
+        "rule-name": 84,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FUN_FC_LINKS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 85,  
+        "rule-name": 85,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_GATEWAYS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 86,  
+        "rule-name": 86,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_HIERARCHIES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 87,  
+        "rule-name": 87,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_HI_NODES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 88,  
+        "rule-name": 88,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_HI_SEGMENTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 89,  
+        "rule-name": 89,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_IG_EXP_LINKS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 90,  
+        "rule-name": 90,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_IHS_FK_LINKS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 91,  
+        "rule-name": 91,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_KEY_CONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 92,  
+        "rule-name": 92,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_OBJS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 93,  
+        "rule-name": 93,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_OBJ_DEPS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 94,  
+        "rule-name": 94,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_OBJ_JOIN_USGS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 95,  
+        "rule-name": 95,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_PLAN_TABLE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 96,  
+        "rule-name": 96,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_QPP_STATS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 97,  
+        "rule-name": 97,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SEGMENTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 98,  
+        "rule-name": 98,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SEQUENCES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 99,  
+        "rule-name": 99,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SQ_CRRLTNS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 100,  
+        "rule-name": 100,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUB_QUERIES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 101,  
+        "rule-name": 101,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUMMARY_OBJS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 102,  
+        "rule-name": 102,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUMO_EXP_USGS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 103,  
+        "rule-name": 103,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUM_BITMAPS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 104,  
+        "rule-name": 104,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUM_RFSH_SETS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 105,  
+        "rule-name": 105,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_VERSIONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 106,  
+        "rule-name": 106,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FFB_QUALITY_2013"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 107,  
+        "rule-name": 107,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FFB_QUALITY_2014"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 108,  
+        "rule-name": 108,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FIELDCROP_FEB_2015"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 109,  
+        "rule-name": 109,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FIELDMISC_2015_AWAL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 110,  
+        "rule-name": 110,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FIELD_FEB_2015"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 111,  
+        "rule-name": 111,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FIELD_TRANSFER"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 112,  
+        "rule-name": 112,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FINGERPRINT1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 113,  
+        "rule-name": 113,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FINGERPRINT2"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 114,  
+        "rule-name": 114,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "FIXALLDED"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 115,  
+        "rule-name": 115,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GAD_BERONDOLAN_GT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 116,  
+        "rule-name": 116,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GANGACTIVITYDETAIL_2015"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 117,  
+        "rule-name": 117,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GANGACTIVITYDETAIL_GT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 118,  
+        "rule-name": 118,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GANGACTIVITY_GT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 119,  
+        "rule-name": 119,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GANGMINAVG"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 120,  
+        "rule-name": 120,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GCMAST_VER"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 121,  
+        "rule-name": 121,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GENERALSETTING"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 122,  
+        "rule-name": 122,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GLMASTERREGISTERMONTHLY_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 123,  
+        "rule-name": 123,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GL_JOBDETAILS_2011"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 124,  
+        "rule-name": 124,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GL_JOBDETAILS_2012"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 125,  
+        "rule-name": 125,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "GL_JOBDETAILS_2013"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 126,  
+        "rule-name": 126,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "HARVESTINGRECEPTION1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 127,  
+        "rule-name": 127,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_EMPGANG"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 128,  
+        "rule-name": 128,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_EMPMASTER"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 129,  
+        "rule-name": 129,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_FIELD2CROPTYPE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 130,  
+        "rule-name": 130,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_FIELDHISTORY"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 131,  
+        "rule-name": 131,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_GANG"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 132,  
+        "rule-name": 132,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_JOBSPEC"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 133,  
+        "rule-name": 133,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_PARAMETERRATE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 134,  
+        "rule-name": 134,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_PREMIBONUS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 135,  
+        "rule-name": 135,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IBU_TAXDATAIMPORT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 136,  
+        "rule-name": 136,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INCOMETAXCAT1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 137,  
+        "rule-name": 137,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INCOMETAXCAT2"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 138,  
+        "rule-name": 138,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INCOMETAXCAT3"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 139,  
+        "rule-name": 139,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INCOMETX0CAT1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 140,  
+        "rule-name": 140,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INDDOWNLOADPV"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 141,  
+        "rule-name": 141,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INDDOWNLOADTB"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 142,  
+        "rule-name": 142,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INDOINCTAX"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 143,  
+        "rule-name": 143,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INDOINCTAXBRACKET"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 144,  
+        "rule-name": 144,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IND__EMPANG_OLD"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 145,  
+        "rule-name": 145,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IND__JOBSPEC"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 146,  
+        "rule-name": 146,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "IND__PHIST_PARAMETERRATE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 147,  
+        "rule-name": 147,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "INVALIDFIELD"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 148,  
+        "rule-name": 148,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGXS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 149,  
+        "rule-name": 149,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_ATTR"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 150,  
+        "rule-name": 150,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_ATTRIBUTE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 151,  
+        "rule-name": 151,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_CONTENT_TYPE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 152,  
+        "rule-name": 152,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_LINKY"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 153,  
+        "rule-name": 153,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_NO"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 154,  
+        "rule-name": 154,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_POINT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 155,  
+        "rule-name": 155,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_SOURCE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 156,  
+        "rule-name": 156,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_SYS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 157,  
+        "rule-name": 157,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_TRANSLATION"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 158,  
+        "rule-name": 158,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LANGX_WB"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 159,  
+        "rule-name": 159,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LPODETAILS_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 160,  
+        "rule-name": 160,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LPO_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 161,  
+        "rule-name": 161,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "MACHINEDOCUMENT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 162,  
+        "rule-name": 162,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "MACHINEPART"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 163,  
+        "rule-name": 163,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "MACHINE_120"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 164,  
+        "rule-name": 164,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "OTHERITEM"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 165,  
+        "rule-name": 165,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "OT_ITEM"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 166,  
+        "rule-name": 166,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "OUT_LOG"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 167,  
+        "rule-name": 167,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 168,  
+        "rule-name": 168,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2007"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 169,  
+        "rule-name": 169,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2008"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 170,  
+        "rule-name": 170,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2009"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 171,  
+        "rule-name": 171,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2011"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 172,  
+        "rule-name": 172,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2012"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 173,  
+        "rule-name": 173,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2013"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 174,  
+        "rule-name": 174,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2014"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 175,  
+        "rule-name": 175,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2015"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 176,  
+        "rule-name": 176,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHERDETAIL_2016"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 177,  
+        "rule-name": 177,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2007"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 178,  
+        "rule-name": 178,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2008"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 179,  
+        "rule-name": 179,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2009"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 180,  
+        "rule-name": 180,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2011"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 181,  
+        "rule-name": 181,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2012"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 182,  
+        "rule-name": 182,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2013"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 183,  
+        "rule-name": 183,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2014"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 184,  
+        "rule-name": 184,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2015"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 185,  
+        "rule-name": 185,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER_2016"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 186,  
+        "rule-name": 186,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PURCHASECB1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 187,  
+        "rule-name": 187,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PURCHASECONTROL062007"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 188,  
+        "rule-name": 188,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PURCHASEITEM1"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 189,  
+        "rule-name": 189,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "RECEIVENOTEDETAIL_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 190,  
+        "rule-name": 190,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "RECEIVENOTE_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 191,  
+        "rule-name": 191,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "SIVDETAILS_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 192,  
+        "rule-name": 192,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "SIV_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 193,  
+        "rule-name": 193,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "STOCKLEDGERBAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 194,  
+        "rule-name": 194,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "STOCKLEDGER_JULI_2012"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 195,  
+        "rule-name": 195,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "STORESTOCK_BAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 196,  
+        "rule-name": 196,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "STORESTOCK_JULI_2012"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 197,  
+        "rule-name": 197,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "SYSTEMPARAMETER"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 198,  
+        "rule-name": 198,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "SYSTEMTEMPTABLE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 199,  
+        "rule-name": 199,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "S_SYSTEMTEMPTABLE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 200,  
+        "rule-name": 200,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "VHEXPRPT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 201,  
+        "rule-name": 201,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "WBTICKETBAK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 202,  
+        "rule-name": 202,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "WB_TICKETAUDIT"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 203,  
+        "rule-name": 203,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "WEIGHBRIDGETICKET_DE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 204,  
+        "rule-name": 204,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "XREF_ATTR"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 205,  
+        "rule-name": 205,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "XREF_BASE_NET"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 206,  
+        "rule-name": 206,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "XREF_BCX_LOOKUP"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 207,  
+        "rule-name": 207,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "XREF_BCX_METHOD"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 208,  
+        "rule-name": 208,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "XREF_BLOCK"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 209,  
+        "rule-name": 209,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "XREF_SOURCE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 210,  
+        "rule-name": 210,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "XREF_SYS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 211,  
+        "rule-name": 211,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "TRIGGER_CONTROL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 212,  
+        "rule-name": 212,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "TEST"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 213,  
+        "rule-name": 213,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "TEMP"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 214,  
+        "rule-name": 214,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "TABLEANDFIELD"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 215,  
+        "rule-name": 215,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "SEMENTARA"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 216,  
+        "rule-name": 216,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PTUCRFM"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 217,  
+        "rule-name": 217,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PTUCRF"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 218,  
+        "rule-name": 218,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "PAYMENTVOUCHER"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 219,  
+        "rule-name": 219,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "MENGUMPUL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 220,  
+        "rule-name": 220,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "MACHINE_AA"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 221,  
+        "rule-name": 221,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "MACHINEDETAIL_AA"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 222,  
+        "rule-name": 222,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "LOCATIONTYPEX"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 223,  
+        "rule-name": 223,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "KG_BUDGET"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 224,  
+        "rule-name": 224,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "KAN"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 225,  
+        "rule-name": 225,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "JOBX"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 226,  
+        "rule-name": 226,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "JOBGROUPX"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 227,  
+        "rule-name": 227,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "JOB2017"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 228,  
+        "rule-name": 228,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "JOB2014"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 229,  
+        "rule-name": 229,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "JOB2013"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 230,  
+        "rule-name": 230,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "JOB2012"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 231,  
+        "rule-name": 231,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "JOB2011"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 232,  
+        "rule-name": 232,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_VERSIONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 233,  
+        "rule-name": 233,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUM_RFSH_SETS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 234,  
+        "rule-name": 234,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUM_BITMAPS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 235,  
+        "rule-name": 235,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUMO_EXP_USGS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 236,  
+        "rule-name": 236,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUMMARY_OBJS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 237,  
+        "rule-name": 237,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SUB_QUERIES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 238,  
+        "rule-name": 238,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SQ_CRRLTNS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 239,  
+        "rule-name": 239,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SEQUENCES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 240,  
+        "rule-name": 240,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_SEGMENTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 241,  
+        "rule-name": 241,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_QPP_STATS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 242,  
+        "rule-name": 242,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_PLAN_TABLE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 243,  
+        "rule-name": 243,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_OBJ_JOIN_USGS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 244,  
+        "rule-name": 244,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_OBJ_DEPS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 245,  
+        "rule-name": 245,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_OBJS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 246,  
+        "rule-name": 246,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_KEY_CONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 247,  
+        "rule-name": 247,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_IHS_FK_LINKS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 248,  
+        "rule-name": 248,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_IG_EXP_LINKS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 249,  
+        "rule-name": 249,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_HI_SEGMENTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 250,  
+        "rule-name": 250,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_HI_NODES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 251,  
+        "rule-name": 251,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_HIERARCHIES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 252,  
+        "rule-name": 252,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_GATEWAYS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 253,  
+        "rule-name": 253,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FUN_FC_LINKS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 254,  
+        "rule-name": 254,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FUN_CTGS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 255,  
+        "rule-name": 255,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FUN_ARGUMENTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 256,  
+        "rule-name": 256,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FUNCTIONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 257,  
+        "rule-name": 257,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_FREQ_UNITS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 258,  
+        "rule-name": 258,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_EXP_DEPS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 259,  
+        "rule-name": 259,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_EXPRESSIONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 260,  
+        "rule-name": 260,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_EUL_USERS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 261,  
+        "rule-name": 261,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ELEM_XREFS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 262,  
+        "rule-name": 262,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_DOMAINS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 263,  
+        "rule-name": 263,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_DOCUMENTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 264,  
+        "rule-name": 264,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_DBH_NODES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 265,  
+        "rule-name": 265,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BR_RUNS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 266,  
+        "rule-name": 266,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BQ_TABLES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 267,  
+        "rule-name": 267,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BQ_DEPS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 268,  
+        "rule-name": 268,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BA_OBJ_LINKS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 269,  
+        "rule-name": 269,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BATCH_SHEETS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 270,  
+        "rule-name": 270,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BATCH_REPORTS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 271,  
+        "rule-name": 271,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BATCH_QUERIES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 272,  
+        "rule-name": 272,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BATCH_PARAMS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 273,  
+        "rule-name": 273,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_BAS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 274,  
+        "rule-name": 274,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ASM_POLICIES"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 275,  
+        "rule-name": 275,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ASMP_LOGS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 276,  
+        "rule-name": 276,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ASMP_CONS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 277,  
+        "rule-name": 277,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_APP_PARAMS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 278,  
+        "rule-name": 278,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "EUL5_ACCESS_PRIVS"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 279,  
+        "rule-name": 279,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "CROPAA"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 280,  
+        "rule-name": 280,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BUDGET_2008_MILL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 281,  
+        "rule-name": 281,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BUDGET_2008_ESTATE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 282,  
+        "rule-name": 282,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BUDGET_2008_BTL_MILL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 283,  
+        "rule-name": 283,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "BUDGET_2008_BTL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 284,  
+        "rule-name": 284,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_USER"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 285,  
+        "rule-name": 285,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_TRIALBALANCE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 286,  
+        "rule-name": 286,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_PRODUCTION_MILL"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 287,  
+        "rule-name": 287,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_LOCATIONTYPE"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 288,  
+        "rule-name": 288,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_KG_ACTUAL_KSN"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 289,  
+        "rule-name": 289,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_HA_BUDGET_ACTUAL_2006"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 290,  
+        "rule-name": 290,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_BTL_BUDGET_LAST"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 291,  
+        "rule-name": 291,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_ACTREPORT_TMTBM_BGT_LAST"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    },  
+    {  
+        "rule-type": "selection",  
+        "rule-id": 292,  
+        "rule-name": 292,  
+        "object-locator": {  
+            "schema-name": "TDSUITE",  
+            "table-name": "AA_ACCOUNTREPORT_MILL_BGT_LAST"  
+        },  
+        "rule-action": "exclude",  
+        "filters": []  
+    }  
